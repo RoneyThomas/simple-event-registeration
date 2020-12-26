@@ -39,7 +39,7 @@ export default ({ children }) => {
         </div>
       </header>
       <hr className={styles.line}/>
-      <h3>Service Booking</h3>
+      <h3>Service Attendance</h3>
       <hr className={styles.line}/>
       <MuiThemeProvider theme = { theme }>
         {children}
